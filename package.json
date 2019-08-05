@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/TheTrunk/bitcore-build-zelcash"
+    "url": "git://github.com/usdfork/bitcore-build-zelcash"
   },
   "keywords": [
     "bitcore"
@@ -35,15 +35,15 @@
       "email": "larry@myhush.org"
     },
         {
-      "name": "TheTrunk",
+      "name": "usdfork",
       "email": "tessjonesie@gmail.com"
     }
   ],
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/TheTrunk/bitcore-build-zelcash/issues"
+    "url": "https://github.com/usdfork/bitcore-build-zelcash/issues"
   },
-  "homepage": "https://github.com/TheTrunk/bitcore-build-zelcash",
+  "homepage": "https://github.com/usdfork/bitcore-build-zelcash",
   "dependencies": {
     "brfs": "^1.2.0",
     "browserify": "~13.1.0",
